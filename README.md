@@ -2,7 +2,7 @@
 
 A Python implementation of the Schnider et al. (1999) three-compartment pharmacokinetic/pharmacodynamic model for propofol — the same mathematical framework used in Target Controlled Infusion (TCI) pumps in operating rooms worldwide.
 
-Built by Daniel Torres, Anesthesia Technician at Stanford Medicine, as part of independent research skill development toward medical school.
+Built by Daniel Torres, Anesthesia Technician at Stanford Medicine and Biophysiology student at San Francisco State University, as part of independent research skill development toward medical school.
 
 ## What This Does
 
