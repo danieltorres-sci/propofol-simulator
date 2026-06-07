@@ -30,9 +30,6 @@ python3 simulator.py
 
 Change the patient parameters at the top of `simulator.py` to simulate different patients.
 
-## Reference
-
-Schnider TW, et al. *The Influence of Age on Propofol Pharmacodynamics.* Anesthesiology. 1999.
 ## References
 
 1. Schnider TW, Minto CF, Shafer SL, Gambus PL, Andresen C, Goodale DB, Youngs EJ. *The influence of age on propofol pharmacodynamics.* Anesthesiology. 1999;90(6):1502-1516. PMID: 10360845
